@@ -32,3 +32,8 @@ Gerçek ve tahmin edilen BIST 100 kapanış değerleri grafikle gösterilmiştir
 ## Amaç
 
 Makroekonomik göstergeler ile borsa endeksi arasındaki ilişkiyi anlamak ve tahminleme pratiği yapmaktır.
+
+## 🧑‍💻 Katkıda Bulunan
+**Esma Sultan Koyuncu**  
+- Dokuz Eylül Üniversitesi, Ekonometri
+- LinkedIn: [https://www.linkedin.com/in/esma-sultan-koyuncu-077975266/]
